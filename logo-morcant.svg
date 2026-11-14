@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Morcant & Co">
+  <circle cx="60" cy="60" r="53" fill="#f5f3ee" stroke="#2f5147" stroke-width="3"/>
+  <path d="M35 82V38l25 25 25-25v44" fill="none" stroke="#2f5147" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
